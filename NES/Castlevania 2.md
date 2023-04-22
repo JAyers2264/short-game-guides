@@ -8,9 +8,12 @@ Have fun!
 
 # Walkthrough  
 
-##  Key 
-
-\> Directions  | \- Necessary task | ! Important item | ? Puzzle/hidden item  
+| Symbol    | Meaning               |
+|-----------|-----------------------|
+| \>        | Directions            |
+| \-        | Necessary task        |
+| !         | Important item        |
+| ?         | Puzzle/hidden item    |
 
 ### 1. Town of Jova
 
@@ -107,7 +110,7 @@ Have fun!
 
 >   \> Right of Bodley Mansion (Castle 4) to Donia  
 >   \> Right of Donia, first stairs down to Yomi  
->   \> Right of Yomi to bridge; break blocks at edge of bridge  
+>   \> Right of Yomi to bridge; break blocks to get onto bridge 
 >   \> Right to dead end, holy water ground  
 
 # Whips  
