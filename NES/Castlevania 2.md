@@ -36,7 +36,7 @@ Have fun\!
 ### 4. Castle 1: Berkeley Mansion   
 
 >   \> Left from Dabi's Path - OR - Left of Veros, up stairs, then right  
-    \- Get oak stake (throw at orb at dungeon end with UP + B)  
+    \! Get oak stake (throw at orb at dungeon end with UP + B)  
     \! Dracula's Rib
 
 ### 5. Aljiba   
@@ -56,6 +56,7 @@ Have fun\!
 >   \> Left from Aljiba, down first stairs  
     \> \? Kneel at Yuba Lake edge (w/ blue crystal)  
     \? Vertical stone wall near entrance is fake  
+    \! Oak Stake  
     \! Dracula's Heart
 
 ### 8. Aljiba  
@@ -67,6 +68,7 @@ Have fun\!
 >   \> Left of Jova, talk to ferryman with heart  
     \? Diamond: left of Brahm Mansion  
     \? Gold dagger: Fight death  
+    \! Oak Stake  
     \! Dracula's Eye
 
 ### 10. Alba  
@@ -89,30 +91,31 @@ Have fun\!
 ### 13. Castle 4: Bodley Mansion  
 
 >   \> Left of Ondol, kneel at cliff dead end (w/ red crystal)  
->   \- Get oak stake  
+>   \! \? Oak Stake  
 >   &emsp;\> Upper path, right through false walls, down stairs, false wall on left
 >
 >   \? Shortcut: Holy water floor to the left of oak stake selling gypsy  
->   \! Dracula's Nail
+    \! Dracula's Nail
 
 ### 14. Uta Path  
 
 >   \> Left of Bodley Mansion, kneel at water's edge with red crystal  
->   \? Fire Whip: Stay low and go left, holy water wall
+    \? Fire Whip: Stay low and go left, holy water wall
 
-### 15. Castle 6: Laruba Mansion  
+### 15. Castle 5: Laruba Mansion  
 
 >   \> Left exit of Uta Path  
->   \> Continue left through poison swamp using laurels  
->   \! Magic cross: Fight mask  
->   \! Dracula's Ring
+    \> Continue left through poison swamp using laurels  
+    \! Magic cross: Fight mask  
+    \! Get oak stake  
+    \! Dracula's Ring
     
 ### 16. Castlevania  
 
 >   \> Right of Bodley Mansion (Castle 4) to Donia  
->   \> Right of Donia, first stairs down to Yomi  
->   \> Right of Yomi to bridge; break blocks to get onto bridge 
->   \> Right to dead end, holy water ground  
+    \> Right of Donia, first stairs down to Yomi  
+    \> Right of Yomi to bridge; break blocks to get onto bridge 
+    \> Right to dead end, holy water ground  
 
 # Whips  
 
