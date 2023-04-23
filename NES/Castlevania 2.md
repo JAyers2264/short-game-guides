@@ -65,7 +65,7 @@ Have fun\!
 
 ### 8. Aljiba  
 
->   \$ \! At least one laurel
+>   \$ \! At least one Laurel
 
 ### 9. Castle 3: Brahm Mansion  
 
@@ -78,13 +78,13 @@ Have fun\!
 ### 10. Alba  
 
 >   \> Left of normal ferry ride  
-    \! Red crystal: Grey man up stairs  
-    \$ \! At least one garlic
+    \! Red Crystal: Grey man up stairs  
+    \$ \! At least one Garlic
 
 ### 11. (Optional) Graveyard  
 
 >   \> Left of Alba, down stairs  
-    \? Silk bag: Use garlic all the way at the end
+    \? Silk Bag: Use Garlic all the way at the end
 
 ### 12. Ondol  
 
@@ -94,21 +94,21 @@ Have fun\!
 
 ### 13. Castle 4: Bodley Mansion  
 
->   \> Left of Ondol, kneel at cliff dead end (w/ red crystal) for several seconds  
+>   \> Left of Ondol, kneel at cliff dead end for several seconds with Red Crystal equipped
     \! \? Oak Stake  
     \! Dracula's Nail
 
 ### 14. Uta Path  
 
->   \> Left of Bodley Mansion, kneel at water's edge with red crystal  
+>   \> Left of Bodley Mansion, kneel at water's edge for several seconds with Red Crystal
     \? Fire Whip
 
 ### 15. Castle 5: Laruba Mansion  
 
 >   \> Left exit of Uta Path  
     \> Continue left through poison swamp using laurels  
-    \! Magic cross: Fight mask  
-    \! Get oak stake  
+    \! Magic Cross: Fight mask  
+    \! Get Oak Stake
     \! Dracula's Ring
     
 ### 16. Castlevania  
