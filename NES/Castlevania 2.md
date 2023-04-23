@@ -21,7 +21,7 @@ Have fun\!
 
 >   \- Throw holy water and floors/walls in any empty room in towns, there is usually a secret  
     \- In castles, throw holy water frequently to detect false floors and walls  
-    \- Every castles contains a gypsy selling oak stakes, which you will need to beat the castles  
+    \- Every castle contains a gypsy selling oak stakes, which you will need to beat the castles  
 
 ### 1. Town of Jova
 
@@ -96,7 +96,7 @@ Have fun\!
 ### 13. Castle 4: Bodley Mansion  
 
 >   \> Left of Ondol, kneel at cliff dead end (w/ red crystal) for several seconds  
-    \! \? Oak Stake
+    \! \? Oak Stake  
     \! Dracula's Nail
 
 ### 14. Uta Path  
@@ -116,7 +116,7 @@ Have fun\!
 
 >   \> Right of Bodley Mansion (Castle 4) to Donia  
     \> Right of Donia, first stairs down to Yomi  
-    \> Right of Yomi to bridge; break blocks to get onto bridge 
+    \> Right of Yomi to bridge; break blocks to get onto bridge  
     \> Right to dead end, holy water ground  
 
 # Whips  
