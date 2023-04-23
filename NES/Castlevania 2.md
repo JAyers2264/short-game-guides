@@ -8,6 +8,8 @@ Have fun\!
 
 # Walkthrough  
 
+### Walkthrough symbols
+
 | Symbol    | Meaning               |
 |-----------|-----------------------|
 | \>        | Directions            |
@@ -15,16 +17,22 @@ Have fun\!
 | \!        | Important item        |
 | \?        | Puzzle/hidden item    |
 
+### General tips
+
+>   \- Throw holy water and floors/walls in any empty room in towns, there is usually a secret  
+    \- In castles, throw holy water frequently to detect false floors and walls  
+    \- Every castles contains a gypsy selling oak stakes, which you will need to beat the castles  
+
 ### 1. Town of Jova
 
 >   \$ \! Holy water  
     \$ \! White crystal
+    \$ Thorn Whip
 
 ### 2. Veros  
 
->   \> Right from Jova, down stairs  
-    \$ \? Chain whip: East door, throw holy water middle\-left of floor  
-    \$ \? Dagger: West door, throw holy water at right wall 
+>   \> Right from Jova, down stairs
+    \$ \? Chain whip, Dagger
 
 ### 3. (Optional) Dabi's Path  
 
@@ -35,26 +43,24 @@ Have fun\!
 ### 4. Castle 1: Berkeley Mansion   
 
 >   \> Left from Dabi's Path - OR - Left of Veros, up stairs, then right  
-    \! Get oak stake (throw at orb at dungeon end with UP + B)  
+    \! Oak Stake (throw at orb at dungeon end with UP + B)  
     \! Dracula's Rib
 
 ### 5. Aljiba   
 
 >   \> Right from Dabi's Path  
-    \$ \? Garlic: Door near sign at entrance, throw holy water at floor  
-    \$ \? Laurels: East stairs, into door, throw holy water at floor  
+    \$ \? Garlic, Laurels  
     \! Blue crystal: Grey man in upper left
     
 ### 6. (Optional) Camilla Cemetery  
 
 >   \> Right exit of Aljiba  
-    \? Silver dagger: Use garlic
+    \? Silver dagger: Use garlic near first broken fence near left of screen
 
 ### 7. Castle 2: Rover Mansion
 
 >   \> Left from Aljiba, down first stairs  
-    \> \? Kneel at Yuba Lake edge (w/ blue crystal)  
-    \? Vertical stone wall near entrance is fake  
+    \> \? Kneel at Yuba Lake edge (w/ blue crystal) for several seconds  
     \! Oak Stake  
     \! Dracula's Heart
 
@@ -85,15 +91,12 @@ Have fun\!
 
 >   \> Left of Alba, don't take down stairs  
     \$ Morning Star  
-    \$ \! More than one laurel
+    \$ \! At least three Laurels
 
 ### 13. Castle 4: Bodley Mansion  
 
->   \> Left of Ondol, kneel at cliff dead end (w/ red crystal)  
->   \! \? Oak Stake  
->   &emsp;\> Upper path, right through false walls, down stairs, false wall on left
->
->   \? Shortcut: Holy water floor to the left of oak stake selling gypsy  
+>   \> Left of Ondol, kneel at cliff dead end (w/ red crystal) for several seconds  
+    \! \? Oak Stake
     \! Dracula's Nail
 
 ### 14. Uta Path  
