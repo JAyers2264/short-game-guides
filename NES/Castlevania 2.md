@@ -19,14 +19,14 @@ Have fun\!
 
 ### General tips
 
->   \- Throw holy water and floors/walls in any empty room in towns, there is usually a secret  
-    \- In castles, throw holy water frequently to detect false floors and walls  
-    \- Every castle contains a gypsy selling oak stakes, which you will need to beat the castles  
+>   \- Throw Holy Water on floors/walls in any empty room in towns, there is usually a secret  
+    \- In castles, throw Holy Water frequently to detect false floors and walls  
+    \- Every castle contains a gypsy selling Oak Stakes, which you will need to beat the castles  
 
 ### 1. Town of Jova
 
->   \$ \! Holy water  
-    \$ \! White crystal  
+>   \$ \! Holy Water  
+    \$ \! White Crystal  
     \$ Thorn Whip  
 
 ### 2. Veros  
@@ -37,7 +37,6 @@ Have fun\!
 ### 3. (Optional) Dabi's Path  
 
 >   \> Right exit of Veros  
-    \? Holy water bottom platform on rightmost screen  
     \? Sacred Flame 
 
 ### 4. Castle 1: Berkeley Mansion   
@@ -55,7 +54,7 @@ Have fun\!
 ### 6. (Optional) Camilla Cemetery  
 
 >   \> Right exit of Aljiba  
-    \? Silver dagger: Use garlic near first broken fence near left of screen
+    \? Silver Dagger: Use garlic near first broken fence near left of screen
 
 ### 7. Castle 2: Rover Mansion
 
@@ -70,9 +69,9 @@ Have fun\!
 
 ### 9. Castle 3: Brahm Mansion  
 
->   \> Left of Jova, talk to ferryman with heart  
+>   \> Left of Jova, talk to ferryman with dracula's heart equipped  
     \? Diamond: left of Brahm Mansion  
-    \? Gold dagger: Fight death  
+    \? Gold Dagger: Fight death  
     \! Oak Stake  
     \! Dracula's Eye
 
