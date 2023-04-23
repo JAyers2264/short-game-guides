@@ -102,7 +102,7 @@ Have fun\!
 ### 14. Uta Path  
 
 >   \> Left of Bodley Mansion, kneel at water's edge with red crystal  
-    \? Fire Whip: Stay low and go left, holy water wall
+    \? Fire Whip
 
 ### 15. Castle 5: Laruba Mansion  
 
