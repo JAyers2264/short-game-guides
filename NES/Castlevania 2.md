@@ -2,7 +2,7 @@
 
 This is a guide for Castlevania 2 for the NES.
 
-This guide assumes that you will explore and play the game by yourself, but tries to create a general outline of the locations to visit, as well as mention any unique/important missables.
+This guide assumes that you will explore and play the game by yourself, but tries to create a general outline of the locations to visit, some helpful information in charts, as well as mention any unique/important missables.
 
 Have fun\!
 
@@ -12,7 +12,6 @@ Have fun\!
 |-----------|-----------------------|
 | \>        | Directions            |
 | \$        | Purchaseable item     |
-| \-        | Necessary task        |
 | \!        | Important item        |
 | \?        | Puzzle/hidden item    |
 
@@ -138,6 +137,7 @@ Have fun\!
 | Ring  | Entrance to Castlevania bridge        |  
 
 # Items  
+
 | Item          | Use                                                   |
 |---------------|-------------------------------------------------------|
 | White Crystal | Access to Berkeley Mansion                            |
