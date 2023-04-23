@@ -26,12 +26,12 @@ Have fun\!
 ### 1. Town of Jova
 
 >   \$ \! Holy water  
-    \$ \! White crystal
-    \$ Thorn Whip
+    \$ \! White crystal  
+    \$ Thorn Whip  
 
 ### 2. Veros  
 
->   \> Right from Jova, down stairs
+>   \> Right from Jova, down stairs  
     \$ \? Chain whip, Dagger
 
 ### 3. (Optional) Dabi's Path  
@@ -152,3 +152,11 @@ Have fun\!
 | Magic cross   | Get through barricade on bridge to Castlevania        |
 | Silk bag      | Carry more garlic and laurels                         |
 | Clue books    | Give you hints that you can always trust              |
+
+# Endings
+
+| Type      | Requirements                      |
+|-----------|-----------------------------------|
+| Good      | Beat the game in 7 days or less.  |
+| Normal    | Beat the game in 8-14 days.       |
+| Bad       | Beat the game in 15 days or more. |
