@@ -28,6 +28,7 @@ Have fun\!
 >   \$ \! Holy Water  
     \$ \! White Crystal  
     \$ Thorn Whip  
+    \? Clue Book
 
 ### 2. Veros  
 
@@ -43,75 +44,92 @@ Have fun\!
 
 >   \> Left from Dabi's Path - OR - Left of Veros, up stairs, then right  
     \! Oak Stake (throw at orb at dungeon end with UP + B)  
-    \! Dracula's Rib
+    \? 3x Clue Book  
+    \! Dracula's Rib  
 
-### 5. Aljiba   
+### 5. Aljiba Woods
+>   \> Continue right from Berkeley Mansion, take right exit of Dabi's Path  
+    \? Clue Book
+
+### 6. Aljiba   
 
 >   \> Right from Dabi's Path  
     \$ \? Garlic, Laurels  
     \! Blue crystal: Grey man in upper left
     
-### 6. (Optional) Camilla Cemetery  
+### 7. (Optional) Camilla Cemetery  
 
 >   \> Right exit of Aljiba  
     \? Silver Dagger: Use garlic near first broken fence near left of screen
 
-### 7. Castle 2: Rover Mansion
+### 8. Castle 2: Rover Mansion
 
 >   \> Left from Aljiba, down first stairs  
     \> \? Kneel at Yuba Lake edge (w/ blue crystal) for several seconds  
     \! Oak Stake  
+    \? 2x Clue Book
     \! Dracula's Heart
 
-### 8. Aljiba  
+### 9. Aljiba  
 
->   \$ \! At least one Laurel
+>   \$ \! At least one Laurel  
+    \? 2x Clue Book, one in town, one in Aljiba Woods
 
-### 9. Castle 3: Brahm Mansion  
+### 10. Castle 3: Brahm Mansion  
 
 >   \> Left of Jova, talk to ferryman with dracula's heart equipped  
     \? Diamond: left of Brahm Mansion  
-    \? Gold Dagger: Fight death  
     \! Oak Stake  
+    \? 2x Clue Book
+    \? Gold Dagger: Fight death  
     \! Dracula's Eye
 
-### 10. Alba  
+### 11. Alba  
 
 >   \> Left of normal ferry ride  
     \! Red Crystal: Grey man up stairs  
     \$ \! At least one Garlic
 
-### 11. (Optional) Graveyard  
+### 12. (Optional) Graveyard  
 
 >   \> Left of Alba, down stairs  
     \? Silk Bag: Use Garlic all the way at the end
 
-### 12. Ondol  
+### 13. Ondol  
 
 >   \> Left of Alba, don't take down stairs  
     \$ Morning Star  
     \$ \! At least three Laurels
 
-### 13. Castle 4: Bodley Mansion  
+### 14. Deborah Cliff
 
->   \> Left of Ondol, kneel at cliff dead end for several seconds with Red Crystal equipped
+>   \> Left of Ondol
+    \? Clue Book
+
+### 15. Castle 4: Bodley Mansion  
+
+>   \> Kneel for several seconds at the left dead end of Deborah cliff with Red Crystal equipped  
+    \? Clue Book  
     \! \? Oak Stake  
     \! Dracula's Nail
 
-### 14. Uta Path  
+### 16. Uta Path  
 
->   \> Left of Bodley Mansion, kneel at water's edge for several seconds with Red Crystal
+>   \> Left of Bodley Mansion, kneel at water's edge for several seconds with Red Crystal  
     \? Fire Whip
 
-### 15. Castle 5: Laruba Mansion  
+### 17. Devious Woods
+>   \> Left exit of Uta Path
+    \? Clue Book
 
->   \> Left exit of Uta Path  
-    \> Continue left through poison swamp using laurels  
+### 18. Castle 5: Laruba Mansion  
+
+>   \> Left of Devious Woods through poison swamp (use Laurels to cross)  
     \! Magic Cross: Fight mask  
-    \! Get Oak Stake
+    \! Get Oak Stake  
     \! Dracula's Ring
     
-### 16. Castlevania  
+### 19. Castlevania  
 
 >   \> Right of Bodley Mansion (Castle 4) to Donia  
     \> Right of Donia, first stairs down to Yomi  
