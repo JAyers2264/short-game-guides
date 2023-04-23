@@ -119,7 +119,7 @@ Have fun\!
     \? Fire Whip
 
 ### 17. Devious Woods
->   \> Left exit of Uta Path
+>   \> Left exit of Uta Path  
     \? Clue Book
 
 ### 18. Castle 5: Laruba Mansion  
