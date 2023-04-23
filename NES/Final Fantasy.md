@@ -43,7 +43,7 @@ Have fun\!
 | Starting form | Evolved form  | Description                                       | Shortening    |
 |---------------|---------------|---------------------------------------------------|---------------|
 | Fighter       | Knight        | Tanky physical fighter; relies on equipments      | Fi/Kn         |
-| Thief         | Ninja         | Thief mostly useless; Ninja similar to Knight     | Th/Ni         |
+| Thief         | Ninja         | Thief high run chance; Ninja similar to Knight    | Th/Ni         |
 | Black Belt    | Master        | Physical fighter; needs no equipment              | BB/Ma         |
 | Red Mage      | Red Wizard    | Mage that uses both magic types less effectively  | RM/RW         |
 | White Mage    | White Wizard  | Mage specialized in white magic                   | WM/WW         |
