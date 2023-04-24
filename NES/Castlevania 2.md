@@ -73,7 +73,6 @@ Have fun\!
 ### 9. Aljiba  
 
 >   \$ \! At least one Laurel  
-    \? 2x Clue Book, one in town, one in Aljiba Woods
 
 ### 10. Castle 3: Brahm Mansion  
 
