@@ -28,12 +28,12 @@ Have fun\!
 >   \$ \! Holy Water  
     \$ \! White Crystal  
     \$ Thorn Whip  
-    \? Clue Book
 
 ### 2. Veros  
 
 >   \> Right from Jova, down stairs  
-    \$ \? Chain whip, Dagger
+    \$ \? Chain whip, Dagger  
+    \? Clue Book
 
 ### 3. (Optional) Dabi's Path  
 
