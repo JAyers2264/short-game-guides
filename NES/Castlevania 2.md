@@ -53,7 +53,7 @@ Have fun\!
 
 ### 6. Aljiba   
 
->   \> Right from Dabi's Path  
+>   \> Continue right from Aljiba Woods
     \$ \? Garlic, Laurels  
     \! Blue crystal: Grey man in upper left
     
