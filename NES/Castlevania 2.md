@@ -102,7 +102,7 @@ Have fun\!
 
 ### 14. Deborah Cliff
 
->   \> Left of Ondol
+>   \> Left of Ondol  
     \? Clue Book
 
 ### 15. Castle 4: Bodley Mansion  
