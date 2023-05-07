@@ -56,6 +56,7 @@ Have fun\!
 >   \> Continue right from Aljiba Woods
     \$ \? Garlic, Laurels  
     \! Blue crystal: Grey man in upper left
+    \? Clue book
     
 ### 7. (Optional) Camilla Cemetery  
 
@@ -79,7 +80,7 @@ Have fun\!
 >   \> Left of Jova, talk to ferryman with dracula's heart equipped  
     \? Diamond: left of Brahm Mansion  
     \! Oak Stake  
-    \? 2x Clue Book
+    \? 2x Clue Book  
     \? Gold Dagger: Fight death  
     \! Dracula's Eye
 
