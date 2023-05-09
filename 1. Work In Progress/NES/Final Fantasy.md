@@ -150,17 +150,47 @@ Have fun\!
 
 # White Magic 
 
-| Level | Name  | Purpose                               | Learned By            |
-|-------|-------|---------------------------------------|-----------------------|
-| 1     | CURE  | Healing spell                         | WM, WW, RM, RW, Kn    |
-| 1     | HARM  | Damage all undead monsters            | WM, WW                |  
-| 1     | FOG   | Increase one ally's defense           | WM, WW, RM, RW, Kn    |
-| 1     | RUSE  | Increase caster's evade               | WM, WW, RW, Kn        |
-|-------|-------|---------------------------------------|-----------------------|
-| 2     | LAMP  | Heal 'darkness', one ally             | WM, WW, RM, RW, Kn    |
-| 2     | MUTE  | Causes 'silence' on all foes          | WM, WW, RM, RW, Kn    |  
-| 2     | ALIT  | Gives all allies lightning resistance | WM, WW, RM, RW, Kn    |
-| 2     | RUSE  | Increase one ally's evasion           | WM, WW, RM, RW, Kn    |
+| Level | Name      | Target        | Purpose                                               | Can use (Initial / Evolved)   |
+|-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
+| 1     | CURE      | One ally      | Restore HP                                            | RM, WM / Kn, RW, WW           |
+| 1     | HARM      | All foes      | Damage undead monsters                                | WM / WW                       |  
+| 1     | FOG       | One ally      | Increases absorb                                      | RM, WM / Kn, RW, WW           |
+| 1     | RUSE      | Caster        | Increases evade                                       | WM / Kn, RW, WW               |
+|-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
+| 2     | LAMP      | One ally      | Heal 'darkness'                                       | RM, WM / Kn, RW, WW           |
+| 2     | MUTE      | All foes      | Inflicts 'silence'                                    | RM, WM / Kn, RW, WW           |  
+| 2     | ALIT      | All allies    | Increases lightning resistance                        | RM, WM / Kn, RW, WW           |
+| 2     | RUSE      | One ally      | Increase evasion                                      | RM, WM / Kn, RW, WW           |
+|-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
+| 3     | CUR2      | One ally      | Restore HP                                            | RM, WM / Kn, RW, WW           |
+| 3     | HRM2      | All foes      | Damage undead monsters                                | WM / WW                       |
+| 3     | HEAL      | All allies    | Restore HP                                            | WM / WW                       |
+| 3     | ALIT      | All allies    | Increase fire resistance                              | RM, WM / Kn, RW, WW           |
+|-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
+| 4     | PURE      | One ally      | Cure poison                                           | RM, WM / RW, WW               |
+| 4     | FEAR      | All foes      | Makes enemies flee                                    | WM / WW                       |
+| 4     | AICE      | All allies    | Increase cold resistance                              | RM, WM / RW, WW               |
+| 4     | AMUT      | One ally      | Cures 'silence'                                       | WM / RW, WW                   |
+|-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
+| 5     | CUR3      | One ally      | Restore HP                                            | RM, WM / RW, WW               |
+| 5     | HRM3      | All foes      | Damage undead monsters                                | WM / WW                       |
+| 5     | HEL2      | All allies    | Restore HP                                            | WM / WW                       |
+| 5     | LIFE      | One ally      | Revives, outside of combat                            | WM / RW, WW                   |
+|-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
+| 6     | INV2      | All allies    | Increases evade                                       | WM / RW, WW                   |
+| 6     | FOG2      | All allies    | Increases absorb                                      | WM / RW, WW                   |
+| 6     | SOFT      | One ally      | Cures 'stone', outside of combat                      | WM / WW                       |
+| 6     | EXIT      | All allies    | Teleport from dungeon                                 | - / RW, WW                    |
+|-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
+| 7     | CUR4      | One ally      | Full restore HP; heal status effects (not 'stone')    | - / WW                        |
+| 7     | HRM4      | All foes      | Damage undead monsters                                | - / WW                        |
+| 7     | HEL3      | All allies    | Restore HP                                            | WM / WW                       |
+| 7     | ARUB      | All allies    | Increases resistance to statuses / 'Death' / 'Earth'  | WM / RW, WW                   |
+|-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
+| ~~8~~ | ~~XFER~~  | ~~One foe~~   | ~~Does not work correctly in NES version~~            | - / WW                        |
+| 8     | FADE      | All foes      | Non-elemental damage                                  | - / WW                        |
+| 8     | LIF2      | One ally      | Revive; full restore HP; outside of combat only       | - / WW                        |
+| 8     | WALL      | One ally      | Grant resistance to all elements                      | - / WW                        |
 
 # Black Magic
 
