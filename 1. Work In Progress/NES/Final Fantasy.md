@@ -157,8 +157,8 @@ Have fun\!
 | 1     | FOG       | One ally      | Increases absorb                                      | RM, WM / Kn, RW, WW           |
 | 1     | RUSE      | Caster        | Increases evade                                       | WM / Kn, RW, WW               |
 |-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
-| 2     | LAMP      | One ally      | Heal 'darkness'                                       | RM, WM / Kn, RW, WW           |
-| 2     | MUTE      | All foes      | Inflicts 'silence'                                    | RM, WM / Kn, RW, WW           |  
+| 2     | LAMP      | One ally      | Heal 'Darkness'                                       | RM, WM / Kn, RW, WW           |
+| 2     | MUTE      | All foes      | Inflicts 'Silence'                                    | RM, WM / Kn, RW, WW           |  
 | 2     | ALIT      | All allies    | Increases lightning resistance                        | RM, WM / Kn, RW, WW           |
 | 2     | RUSE      | One ally      | Increase evasion                                      | RM, WM / Kn, RW, WW           |
 |-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
@@ -170,7 +170,7 @@ Have fun\!
 | 4     | PURE      | One ally      | Cure poison                                           | RM, WM / RW, WW               |
 | 4     | FEAR      | All foes      | Makes enemies flee                                    | WM / WW                       |
 | 4     | AICE      | All allies    | Increase cold resistance                              | RM, WM / RW, WW               |
-| 4     | AMUT      | One ally      | Cures 'silence'                                       | WM / RW, WW                   |
+| 4     | AMUT      | One ally      | Cures 'Silence'                                       | WM / RW, WW                   |
 |-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
 | 5     | CUR3      | One ally      | Restore HP                                            | RM, WM / RW, WW               |
 | 5     | HRM3      | All foes      | Damage undead monsters                                | WM / WW                       |
@@ -179,24 +179,59 @@ Have fun\!
 |-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
 | 6     | INV2      | All allies    | Increases evade                                       | WM / RW, WW                   |
 | 6     | FOG2      | All allies    | Increases absorb                                      | WM / RW, WW                   |
-| 6     | SOFT      | One ally      | Cures 'stone', outside of combat                      | WM / WW                       |
+| 6     | SOFT      | One ally      | Cures 'Stone', outside of combat                      | WM / WW                       |
 | 6     | EXIT      | All allies    | Teleport from dungeon                                 | - / RW, WW                    |
 |-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
-| 7     | CUR4      | One ally      | Full restore HP; heal status effects (not 'stone')    | - / WW                        |
+| 7     | CUR4      | One ally      | Full restore HP; heal status effects (not 'Stone')    | - / WW                        |
 | 7     | HRM4      | All foes      | Damage undead monsters                                | - / WW                        |
 | 7     | HEL3      | All allies    | Restore HP                                            | WM / WW                       |
 | 7     | ARUB      | All allies    | Increases resistance to statuses / 'Death' / 'Earth'  | WM / RW, WW                   |
 |-------|-----------|---------------|-------------------------------------------------------|-------------------------------|
-| ~~8~~ | ~~XFER~~  | ~~One foe~~   | ~~Does not work correctly in NES version~~            | - / WW                        |
+| ~~8~~ | ~~XFER~~  | ~~One foe~~   | ~~Does not work in NES version~~                      | ~~- / WW~~                    |
 | 8     | FADE      | All foes      | Non-elemental damage                                  | - / WW                        |
 | 8     | LIF2      | One ally      | Revive; full restore HP; outside of combat only       | - / WW                        |
 | 8     | WALL      | One ally      | Grant resistance to all elements                      | - / WW                        |
 
 # Black Magic
 
-| Level | Name      | Purpose                               | Learned By                |
-|-------|-----------|---------------------------------------|---------------------------|
-| 1     | FIRE      | Fire damage one enemy                 | RM, RW, BM, BW, Ni        |
-| 1     | SLEP      | Sleep all enemies                     | RM, RW, BM, BW, Ni        |  
-| ~~1~~ | ~~LOCK~~  | ~~Does not function in NES version~~  | ~~RM, RW, BM, BW, Ni~~    |
-| 1     | LIT       | Lightning damage one enemy            | RM, RW, BM, BW, Ni        |
+| Level | Name      | Target        | Purpose                                               | Learned By                |
+|-------|-----------|---------------|-------------------------------------------------------|---------------------------|
+| 1     | FIRE      | One foe       | Deals fire damage                                     | RM, BM / RW, BW, Ni       |
+| 1     | SLEP      | All foes      | Inflicts 'Sleep'                                      | RM, BM / RW, BW, Ni       |
+| ~~1~~ | ~~LOCK~~  | One foe       | ~~Does not work in NES version~~                      | ~~RM, BM / RW, BW, Ni~~   |
+| 1     | LIT       | One foe       | Deals lightning damage                                | RM, BM / RW, BW, Ni       |
+|-------|-----------|---------------|-------------------------------------------------------|---------------------------|
+| 2     | DARK      | All foes      | Inflicts 'Darkness'                                   | RM, BM / RW, BW, Ni       |
+| 2     | ICE       | One foe       | Deals cold damage                                     | RM, BM / RW, BW, Ni       |
+| 2     | SLOW      | All foes      | Limits to 1 attack per round; counters FAST           | RM, BM / RW, BW, Ni       |
+| ~~2~~ | ~~TMPR~~  | ~~One ally~~  | ~~Does not work in NES version~~                      | ~~RM, BM / RW, BW, Ni~~   |
+|-------|-----------|---------------|-------------------------------------------------------|---------------------------|
+| 3     | HOLD      | One foe       | Inflicts 'Paralysis'                                  | RM, BM / RW, BW, Ni       |
+| 3     | LIT2      | All foes      | Deals lightning damage                                | RM, BM / RW, BW, Ni       |
+| 3     | FIR2      | All foes      | Deals fire damage                                     | RM, BM / RW, BW, Ni       |
+| ~~3~~ | ~~LOK2~~  | ~~All foes~~  | ~~Does not work in NES version~~                      | ~~RM, BM / RW, BW, Ni~~   |
+|-------|-----------|---------------|-------------------------------------------------------|---------------------------|
+| 4     | FAST      | One ally      | Doubles attacks per round; or counters SLOW           | RM, BM / RW, BW, Ni       |
+| 4     | ICE2      | All foes      | Deals cold damage                                     | RM, BM / RW, BW, Ni       |
+| 4     | CONF      | All foes      | Inflicts 'Confusion'                                  | RM, BM / RW, BW, Ni       |
+| 4     | SLP2      | One foe       | Inflicts 'Sleep'                                      | RM, BM / RW, BW, Ni       |
+|-------|-----------|---------------|-------------------------------------------------------|---------------------------|
+| 5     | FIR3      | All foes      | Deals fire damage                                     | RM, BM / RW, BW           |
+| 5     | BANE      | All foes      | Inflicts poison-elemental 'KO'                        | BM / RW, BW               |
+| 5     | SLO2      | One foe       | Limits to 1 attack per round; counters FAST           | RM, BM / RW, BW           |
+| 5     | WARP      | All allies    | Warp to previous floor of dungeon                     | - / RW, BW                |
+|-------|-----------|---------------|-------------------------------------------------------|---------------------------|
+| 6     | LIT3      | All foes      | Deals lightning damage                                | BM / RW, BW               |
+| 6     | QAKE      | All foes      | Deals earth damage                                    | BM / BW                   |
+| 6     | RUB       | One foe       | Inflicts death-elemental 'KO'                         | BM / BW                   |
+| 6     | STUN      | One foe       | Inflicts 'Paralysis' 100% accuracy if foe < 300 HP    | BM / BW                   |
+|-------|-----------|---------------|-------------------------------------------------------|---------------------------|
+| 7     | BLND      | One foe       | Inflicts 'Blind' 100% accuracy if foe < 300 HP        | BM / BW                   |
+| 7     | BRAK      | One foe       | Inflicts poison-elemental 'Stone'                     | - / BW                    |
+| 7     | ICE3      | All foes      | Deals cold damage                                     | BM / RW, BW               |
+| ~~3~~ | ~~SABR~~  | ~~Caster~~    | ~~Does not work in NES version~~                      | ~~- / BW~~                |
+|-------|-----------|---------------|-------------------------------------------------------|---------------------------|
+| 8     | ZAP!      | All foes      | Inflicts time-elemental 'KO'                          | - / BW                    |
+| 8     | XXXX      | One foe       | Inflicts 'KO' 100% accuracy if foe < 300 HP           | - / BW                    |
+| 8     | NUKE      | All foes      | Deals non-elemental damage                            | - / BW                    |
+| 8     | STOP      | All foes      | Inflicts time-elemental 'Paralysis                    | - / BW                    |
