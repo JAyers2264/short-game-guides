@@ -16,7 +16,10 @@ Have fun\!
 | \!        | Important item        |
 | \?        | Puzzle/hidden item    |
 
-### 1. Cornelia Castle
+### General Tips
+>   \- When on the ship, hold A and press B 55 times to play a sliding puzzle minigame you can earn Gil from
+
+### 1. Cornelia
 
 >   \- Buy equipment and equip party
 
@@ -38,6 +41,63 @@ Have fun\!
 >   \> East from Matoya's Cave  
     \- Defeat Bikke's pirates  
     &emsp;\> Northwest inside Pravoka
+
+### 6. (Optional) ElfLand
+
+>   \> Sail west and south from Pravoka  
+    \- Visit castle  
+    
+### 7. (Optional) Dwarf Cave
+
+>   \> Sail west and north from ElfLand
+    \- Talk to dwarves
+
+### 8. (Optional) Western Keep
+
+>   \> Walk west and then north from ElfLand  
+    \- Talk to King  
+    
+### 9. Marsh Cave
+
+>   \> South from Western Keep  
+    \! Crown  
+    
+### 10. Western Keep
+
+>   \- Talk to King  
+    \! Crystal eye  
+
+### 11. Matoya's Cave
+
+>   \- Talk to Matoya  
+    \! Herb  
+
+### 12. ElfLand Castle
+
+>   \- Talk to Prince's aide  
+    \! Mystic key  
+    
+### 13. Mystic Key Unlocks
+
+>   \- Cornelia Castle  
+    &emsp;\! TNT  
+    \- Temple of Fiends  
+    &emsp;\! Rune sword  
+    &emsp;\! Were sword  
+    \- ElfLand Castle  
+    \- Western Keep  
+    \- Marsh Cave  
+    
+### 14. Dwarf Cave
+
+>   \- Deliver TNT to dwarf  
+    \- Mystic Key Unlocks  
+    &emsp;\! Dragon sword  
+
+### 15. 
+
+
+
 
 # Party Members
 
